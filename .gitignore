@@ -1,0 +1,17 @@
+.DS_Store
+/build/
+/DerivedData/
+*.xcodeproj/*.pbxproj
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/
+*.xcworkspace/xcuserdata/*.xcuserstate
+xcuserdata/
+/Pods/
+/Carthage/
+/Cartfile.resolved
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.xccheckout/
+*.xcscmblueprint/
+*.xcscheme
