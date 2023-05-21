@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>272393893946-65ge7mqjc21555jlju5hg8ogce00o63i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.272393893946-65ge7mqjc21555jlju5hg8ogce00o63i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbh6aQ2pRGY5_g7X032tvcdLMovZFAaWw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>272393893946</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>bikash.FlashCardMemo</string>
+	<key>PROJECT_ID</key>
+	<string>vocabulary-builder-75cba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vocabulary-builder-75cba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:272393893946:ios:fdd2f121d924a69a535d03</string>
+</dict>
+</plist>
